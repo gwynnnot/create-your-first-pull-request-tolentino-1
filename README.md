@@ -1,0 +1,1 @@
+For our first exer, I created a local repository and added a text containing my expectations about my journey in CMSC 100. My partner also did the same and we collaborated to see each other's repo. I cloned their repository and created a new branch to comment on my partner's expectations. We approved each other's request when we are done with the changes.
